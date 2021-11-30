@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there,  👋
 
 - 🔭 I’m currently working on https://github.com/BloomTech-Labs/underdog-devs-fe-a
 - 🌱 I’m currently learning anything bitcoin related
