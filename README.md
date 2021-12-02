@@ -1,5 +1,5 @@
 ### Hi, I'm Nicholas,
-[![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-nhamilton1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
+[![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
 
 Currently on an exhilarating journey of becoming a Full Stack Web Developer over at BloomTech.
 
@@ -17,7 +17,6 @@ Currently on an exhilarating journey of becoming a Full Stack Web Developer over
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
