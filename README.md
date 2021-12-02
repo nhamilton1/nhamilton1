@@ -1,4 +1,5 @@
-### Hi there,  👋
+### Hi I'm Nicholas,
+[![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-nhamilton1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
 
 Currently on an exhilarating journey of becoming a Full Stack Web Developer over at BloomTech.
 
@@ -7,7 +8,7 @@ Currently on an exhilarating journey of becoming a Full Stack Web Developer over
 - 💬 Ask me about anything
 
 
-[![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-nhamilton1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
+
 
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
