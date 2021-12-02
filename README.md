@@ -3,7 +3,7 @@
 Currently on an exhilarating journey of becoming a Full Stack Web Developer over at BloomTech.
 
 - 🔭 I’m currently working on https://github.com/BloomTech-Labs/underdog-devs-fe-a
-- 🌱 I’m currently learning anything full stack web development and anything bitcoin related 
+- 🌱 I’m currently learning anything bitcoin related and anything with full stack web development 
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/nicholas-m-hamilton/
 
