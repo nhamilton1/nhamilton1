@@ -7,7 +7,7 @@ Currently on an exhilarating journey of becoming a Full Stack Web Developer over
 - 💬 Ask me about anything
 - 📫 How to reach me: https://www.linkedin.com/in/nicholas-m-hamilton/
 
-[![Linkedin: nhamilton](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
+[![Linkedin: nhamilton](https://img.shields.io/badge/-nhamilton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
 ## ⚡ Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
