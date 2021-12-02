@@ -4,10 +4,8 @@ Currently on an exhilarating journey of becoming a Full Stack Web Developer over
 
 - 🔭 I’m currently working on https://github.com/BloomTech-Labs/underdog-devs-fe-a
 - 🌱 I’m currently learning anything full stack web development and anything bitcoin related 
-- 👯 I’m looking to collaborate ... 
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anything
-- 📫 How to reach me: ...
+- 📫 How to reach me: https://www.linkedin.com/in/nicholas-m-hamilton/
 
 <!--
 **nhamilton1/nhamilton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
