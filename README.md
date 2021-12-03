@@ -22,7 +22,7 @@ Currently on an exhilarating journey of becoming a Full Stack Web Developer over
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 
 <!--
 **nhamilton1/nhamilton1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
