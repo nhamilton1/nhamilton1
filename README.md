@@ -1,7 +1,7 @@
 ### Hi, I'm Nicholas,
 [![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
 
-Currently on an exhilarating journey of becoming a Full Stack Web Developer over at BloomTech.
+Currently working on open source tools that are focused on bitcoin.
 
 - 🔭 I’m currently working on https://nd-pool.herokuapp.com
 - 🌱 I’m currently learning anything bitcoin related and anything with full stack web development 
