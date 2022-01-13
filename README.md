@@ -3,7 +3,7 @@
 
 Currently on an exhilarating journey of becoming a Full Stack Web Developer over at BloomTech.
 
-- 🔭 I’m currently working on https://github.com/BloomTech-Labs/underdog-devs-fe-a
+- 🔭 I’m currently working on https://nd-pool.herokuapp.com
 - 🌱 I’m currently learning anything bitcoin related and anything with full stack web development 
 - 💬 Ask me about anything
 
