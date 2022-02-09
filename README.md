@@ -3,7 +3,7 @@
 
 Currently working on open source tools that are focused on bitcoin.
 
-- 🔭 I’m currently working on https://nd-pool.herokuapp.com
+- 🔭 I’m currently working on https://btc-utils-fe.herokuapp.com/
 - 🌱 I’m currently learning anything bitcoin related and anything with full stack web development 
 - 💬 Ask me about anything
 
