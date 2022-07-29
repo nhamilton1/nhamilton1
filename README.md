@@ -1,5 +1,4 @@
 ### Hi, I'm Nicholas,
-[![Linkedin: nicholas-m-hamilton](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholas-m-hamilton/)](https://www.linkedin.com/in/nicholas-m-hamilton/)
 
 Currently working on open source tools that are focused on bitcoin.
 
