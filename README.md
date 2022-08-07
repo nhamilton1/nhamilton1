@@ -1,9 +1,9 @@
 ### Hi, I'm Nicholas,
 
-Currently working on open source tools that are focused on bitcoin.
+Currently working at a Bitcoin startup.
 
-- 🔭 I’m currently working on https://www.asic-tools.com/
-- 🌱 I’m currently learning anything bitcoin related and anything with full stack web development 
+- 🔭 I’m currently working on https://www.asic-tools.com/ in my free time.
+- 🌱 I’m currently learning anything with full stack web development 
 - 💬 Ask me about anything
 
 
